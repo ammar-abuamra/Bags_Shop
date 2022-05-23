@@ -1,16 +1,7 @@
-# bags_shop
+# Bags_shop
 
-Bags Shop UI  - Clean code _ responsive
+Bags Shop UI  - Clean code  - Simple 2 Screen`s Desgin 
 
-## Getting Started
+By The Flutter Way 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Apple iPhone 11 Pro Max Presentation (2)](https://user-images.githubusercontent.com/76402626/169754729-35d81a4c-b268-419a-aefd-d6c1468fea62.png)
