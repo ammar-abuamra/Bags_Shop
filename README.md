@@ -1,6 +1,8 @@
 # Bags_shop
 
-Bags Shop UI  - Clean code  - Simple 2 Screen`s Desgin 
+Bags Shop UI  
+Clean code MVC Pattren
+Simple 2 Screen`s Desgin 
 
 By The Flutter Way 
 
