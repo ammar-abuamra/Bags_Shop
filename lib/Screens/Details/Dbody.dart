@@ -1,17 +1,14 @@
-import 'dart:html';
 
 import 'package:bags_shop/Screens/Details/product_title_With_Image.dart';
 import 'package:bags_shop/constans.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_svg/flutter_svg.dart';
 
 import '../../Moudle/product.dart';
 import 'AddToCart.dart';
 import 'ColorAndSize.dart';
 import 'CounterWithFavBtn.dart';
 import 'Descreption.dart';
-import 'IteamCount.dart';
 
 class DBody extends StatelessWidget {
   final Product product;
